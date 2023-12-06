@@ -10,7 +10,7 @@ Welcome to our GitHub organization. This organization has been created for the p
 
 ## Repository
 ### Cloud Computing: https://github.com/heptavators/friendease-backend
-### Machine Learning: https://github.com/heptavators/friendease-backend
+### Machine Learning: https://github.com/heptavators/friendease-ml-face-verification
 ### Mobile Developer: https://github.com/heptavators/friendease-mobile
 
 # Note
