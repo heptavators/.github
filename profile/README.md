@@ -20,9 +20,16 @@ Welcome to our GitHub organization. This organization has been created for the p
 | Heru Aryasuta                     | A251BSY2081 | Mobile Development |  Universitas Malikussaleh      |
 
 ## Repository
-### Cloud Computing: https://github.com/heptavators/friendease-backend
-### Machine Learning: https://github.com/heptavators/friendease-ml-face-verification
-### Mobile Developer: https://github.com/heptavators/friendease-mobile
 
-# Note
+###  ☁️ Cloud Computing
+#### [Backend API](https://github.com/heptavators/friendease-backend) 
+
+### 📱 Mobile Developer 
+#### [Android](https://github.com/heptavators/friendease-mobile) 
+
+### 🤖 Machine Learning
+#### [Face Verification](https://github.com/heptavators/friendease-ml-face-verification) 
+#### [Recommender System](https://github.com/heptavators/friendease-ml-recommender-system)
+
+## Note
 Our GitHub repository is currently private. If it enters the judging process, we will change it to public. Thank you.
