@@ -22,6 +22,7 @@ Welcome to our GitHub organization. This organization has been created for the p
 ## Repository
 
 ###  ☁️ Cloud Computing
+#### [Frontend](https://github.com/heptavators/friendease-frontend) 
 #### [Backend API](https://github.com/heptavators/friendease-backend) 
 
 ### 📱 Mobile Developer 
